@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/da-head0)
+![Leetcode Stats](https://leetcard.jacoblin.cool/da-head0?theme=unicorn)
 
 
 |Index|Difficulty|Question|Status|
