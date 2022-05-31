@@ -1,3 +1,6 @@
+![Leetcode Stats](https://leetcard.jacoblin.cool/da-head0)
+
+
 |Index|Difficulty|Question|Status|
 |--|--|--|--|
 |1|dd|dd|dd|
