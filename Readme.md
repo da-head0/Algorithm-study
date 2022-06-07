@@ -18,6 +18,7 @@
 |8      | Hard     |[Link](https://leetcode.com/problems/two-sum/)| Array | ➖ |
 |9      | Medium   |[Link](https://leetcode.com/problems/3sum/)| Array | ➖ |
 |12     | Easy     |[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Array | ➖ |
+|13     | Easy     |[Link](https://leetcode.com/problems/palindrome-linked-list/)| Linked List | 🌿 |
 |14     | Easy     |[Link](https://leetcode.com/problems/merge-two-sorted-lists/)| Linked List | ➖ |
 |16     | Medium   |[Link](https://leetcode.com/problems/add-two-numbers/)| Linked List | ➖ |
 |17     | Medium   |[Link](https://leetcode.com/problems/swap-nodes-in-pairs/)| Linked List | ➖ |
@@ -26,6 +27,7 @@
 |36     | Medium   |[Link](https://leetcode.com/problems/combination-sum/)| NonLinear Structure | ➖ |
 |39     | Medium   |[Link](https://leetcode.com/problems/course-schedule/)| NonLinear Structure | ➖ |
 |41     | Medium   |[Link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)| Shortest Path | ➖ |
+|42     | Easy     |[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Tree | 🌿 |
 |44     | Medium   |[Link](https://leetcode.com/problems/longest-univalue-path/)| Tree | ➖ |
 |45     | Easy     |[Link](https://leetcode.com/problems/invert-binary-tree/)| Tree | ➖ |
 |47     | Hard     |[Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| Tree | ➖ |
