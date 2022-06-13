@@ -41,7 +41,7 @@
 |63     | Medium   |[Link](https://leetcode.com/problems/sort-colors/)| Sorting | ➖ |
 |65     | Easy     |[Link](https://leetcode.com/problems/binary-search/)| Binary Search | 🌿 |
 |69     | Medium   |[Link](https://leetcode.com/problems/search-a-2d-matrix-ii/)| Binary Search | ➖ |
-|70     | Easy     |[Link](https://leetcode.com/problems/single-number/)| Bit Manipulation | ➖ |
+|70     | Easy     |[Link](https://leetcode.com/problems/single-number/)| Bit Manipulation | 🌿 |
 |72     | Medium   |[Link](https://leetcode.com/problems/sum-of-two-integers/)| Bit Manipulation | ➖ |
 |73     | Medium   |[Link](https://leetcode.com/problems/utf-8-validation/)| Bit Manipulation | ➖ |
 |75     | Hard     |[Link](https://leetcode.com/problems/sliding-window-maximum/)| Sliding Window | ➖ |
