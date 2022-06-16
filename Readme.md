@@ -11,12 +11,15 @@
 | Index | Difficulty | Question | Type | Status |
 |-------| ---------- | -------- | -----| -------- |
 |1      | Easy     |[Link](https://leetcode.com/problems/valid-palindrome/)| String Manipulation | 🌿 |
-|3      | Easy     |[Link](https://leetcode.com/problems/reorder-data-in-log-files/)| String Manipulation | ➖ |
+|3      | Easy     |[Link](https://leetcode.com/problems/reorder-data-in-log-files/)| String Manipulation | 🌿 |
 |4      | Easy     |[Link](https://leetcode.com/problems/most-common-word/)| String Manipulation | ➖ |
+|5      | Medium   |[Link](https://leetcode.com/problems/group-anagrams/)| String Manipulation | ➖ |
 |6      | Medium   |[Link](https://leetcode.com/problems/longest-palindromic-substring/)| String Manipulation | ➖ |
 |7      | Easy     |[Link](https://leetcode.com/problems/trapping-rain-water/)| Array | ✅ |
 |8      | Hard     |[Link](https://leetcode.com/problems/two-sum/)| Array | ➖ |
 |9      | Medium   |[Link](https://leetcode.com/problems/3sum/)| Array | ➖ |
+|10     | Easy     |[Link](https://leetcode.com/problems/array-partition-i/)| Array | ➖ |
+|11     | Medium   |[Link](https://leetcode.com/problems/product-of-array-except-self/)| Array | ➖ |
 |12     | Easy     |[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Array | ➖ |
 |13     | Easy     |[Link](https://leetcode.com/problems/palindrome-linked-list/)| Linked List | 🌿 |
 |14     | Easy     |[Link](https://leetcode.com/problems/merge-two-sorted-lists/)| Linked List | ➖ |
@@ -46,7 +49,7 @@
 |73     | Medium   |[Link](https://leetcode.com/problems/utf-8-validation/)| Bit Manipulation | ➖ |
 |75     | Hard     |[Link](https://leetcode.com/problems/sliding-window-maximum/)| Sliding Window | ➖ |
 |76     | Hard     |[Link](https://leetcode.com/problems/minimum-window-substring/)| Sliding Window | ➖ |
-|78     | Easy     |[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| Greedy Algorithm | ➖ |
+|78     | Easy     |[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| Greedy Algorithm | 🌿 |
 |79     | Medium   |[Link](https://leetcode.com/problems/queue-reconstruction-by-height/)| Greedy Algorithm | ➖ |
 |82     | Easy     |[Link](https://leetcode.com/problems/assign-cookies/)| Greedy Algorithm | ➖ |
 |87     | Easy     |[Link](https://leetcode.com/problems/climbing-stairs/)| Dynamic Programming | ➖ |
