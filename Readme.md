@@ -30,11 +30,11 @@
 |20     | Easy     |[Link](https://leetcode.com/problems/valid-parentheses/)| Linked List | ➖ |
 |21     | Medium   |[Link](https://leetcode.com/problems/remove-duplicate-letters/)| Stack, Queue | ➖ |
 |22     | Medium   |[Link](https://leetcode.com/problems/daily-temperatures/)| Stack, Queue | ➖ |
-|23     | Easy     |[Link](https://leetcode.com/problems/implement-stack-using-queues/)| Stack, Queue | ➖ |
-|24     | Easy     |[Link](https://leetcode.com/problems/implement-queue-using-stacks/)| Stack, Queue | ➖ |
+|23     | Easy     |[Link](https://leetcode.com/problems/implement-stack-using-queues/)| Stack, Queue | ✅ |
+|24     | Easy     |[Link](https://leetcode.com/problems/implement-queue-using-stacks/)| Stack, Queue | ✅ |
 |25     | Medium   |[Link](https://leetcode.com/problems/design-circular-queue/)| Dequeue, Priority Queue | ➖ |
 |27     | Medium   |[Link](https://leetcode.com/problems/merge-k-sorted-lists/)| Dequeue, Priority Queue | ➖ |
-|28     | Easy     |[Link](https://leetcode.com/problems/design-hashmap/)| Dequeue, Priority Queue | ➖ |
+|28     | Easy     |[Link](https://leetcode.com/problems/design-hashmap/)| Hash Table | ✅ |
 |29     | Easy     |[Link](https://leetcode.com/problems/jewels-and-stones/)| Hash Table | ➖ |
 |30     | Medium   |[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Hash Table | ➖ |
 |31     | Medium   |[Link](https://leetcode.com/problems/top-k-frequent-elements/)| Hash Table | ➖ |
