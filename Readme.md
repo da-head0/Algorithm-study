@@ -53,8 +53,10 @@
 |58     | Medium   |[Link](https://leetcode.com/problems/sort-list/)| Sorting | 🌿 |
 |59     | Medium   |[Link](https://leetcode.com/problems/merge-intervals/)| Sorting | ➖ |
 |60     | Medium   |[Link](https://leetcode.com/problems/insertion-sort-list/)| Sorting | ➖ |
+|62     | Easy     |[Link](https://leetcode.com/problems/valid-anagram/)| Sorting | ✅ |
 |63     | Medium   |[Link](https://leetcode.com/problems/sort-colors/)| Sorting | ➖ |
 |65     | Easy     |[Link](https://leetcode.com/problems/binary-search/)| Binary Search | 🌿 |
+|65     | Easy     |[Link](https://leetcode.com/problems/intersection-of-two-arrays/)| Binary Search | ✅ |
 |69     | Medium   |[Link](https://leetcode.com/problems/search-a-2d-matrix-ii/)| Binary Search | ➖ |
 |70     | Easy     |[Link](https://leetcode.com/problems/single-number/)| Bit Manipulation | 🌿 |
 |72     | Medium   |[Link](https://leetcode.com/problems/sum-of-two-integers/)| Bit Manipulation | ➖ |
