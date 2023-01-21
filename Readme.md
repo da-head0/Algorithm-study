@@ -12,7 +12,7 @@
 |-------| ---------- | -------- | -----| -------- |
 |1      | Easy     |[Link](https://leetcode.com/problems/valid-palindrome/)| String Manipulation | 🌿 |
 |3      | Easy     |[Link](https://leetcode.com/problems/reorder-data-in-log-files/)| String Manipulation | 🌿 |
-|4      | Easy     |[Link](https://leetcode.com/problems/most-common-word/)| String Manipulation | ➖ |
+|4      | Easy     |[Link](https://leetcode.com/problems/most-common-word/)| String Manipulation | 🌿 |
 |5      | Medium   |[Link](https://leetcode.com/problems/group-anagrams/)| String Manipulation | ➖ |
 |6      | Medium   |[Link](https://leetcode.com/problems/longest-palindromic-substring/)| String Manipulation | ➖ |
 |7      | Easy     |[Link](https://leetcode.com/problems/trapping-rain-water/)| Array | ✅ |
