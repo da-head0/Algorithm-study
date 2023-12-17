@@ -40,6 +40,7 @@
 |31     | Medium   |[Link](https://leetcode.com/problems/top-k-frequent-elements/)| Hash Table | ➖ | ➖ |
 |32     | Medium   |[Link](https://leetcode.com/problems/number-of-islands/)| Graph | 🌿 | ➖ |
 |36     | Medium   |[Link](https://leetcode.com/problems/combination-sum/)| NonLinear Structure | ➖ | ➖ |
+|37     | Medium   |[Link](https://leetcode.com/problems/subset/)| NonLinear Structure | 🌿 | ➖ |
 |39     | Medium   |[Link](https://leetcode.com/problems/course-schedule/)| NonLinear Structure | ➖ | ➖ |
 |41     | Medium   |[Link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)| Shortest Path | ➖ | ➖ |
 |42     | Easy     |[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Tree | 🌿 | ➖ |
