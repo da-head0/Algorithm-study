@@ -18,7 +18,7 @@
 |7      | Easy     |[Link](https://leetcode.com/problems/trapping-rain-water/)| Array | ✅ | ➖ |
 |8      | Hard     |[Link](https://leetcode.com/problems/two-sum/)| Array | ➖ | ➖ |
 |9      | Medium   |[Link](https://leetcode.com/problems/3sum/)| Array | ➖ | ➖ |
-|10     | Easy     |[Link](https://leetcode.com/problems/array-partition-i/)| Array | ➖ | ➖ |
+|10     | Easy     |[Link](https://leetcode.com/problems/array-partition)| Array | ✅ | ➖ |
 |11     | Medium   |[Link](https://leetcode.com/problems/product-of-array-except-self/)| Array | ➖ | ➖ |
 |12     | Easy     |[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Array | ➖ | ➖ |
 |13     | Easy     |[Link](https://leetcode.com/problems/palindrome-linked-list/)| Linked List | 🌿 | ➖ |
@@ -35,7 +35,7 @@
 |25     | Medium   |[Link](https://leetcode.com/problems/design-circular-queue/)| Dequeue, Priority Queue | ➖ | ➖ |
 |27     | Medium   |[Link](https://leetcode.com/problems/merge-k-sorted-lists/)| Dequeue, Priority Queue | ➖ | ➖ |
 |28     | Easy     |[Link](https://leetcode.com/problems/design-hashmap/)| Hash Table | ✅ | ➖ |
-|29     | Easy     |[Link](https://leetcode.com/problems/jewels-and-stones/)| Hash Table | ➖ | ➖ |
+|29     | Easy     |[Link](https://leetcode.com/problems/jewels-and-stones/)| Hash Table | ✅ | ➖ |
 |30     | Medium   |[Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Hash Table | ➖ | ➖ |
 |31     | Medium   |[Link](https://leetcode.com/problems/top-k-frequent-elements/)| Hash Table | ➖ | ➖ |
 |32     | Medium   |[Link](https://leetcode.com/problems/number-of-islands/)| Graph | 🌿 | ➖ |
