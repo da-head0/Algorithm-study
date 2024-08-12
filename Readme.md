@@ -60,11 +60,11 @@
 |65     | Easy     |[Link](https://leetcode.com/problems/intersection-of-two-arrays/)| Binary Search | ✅ | ➖ |
 |69     | Medium   |[Link](https://leetcode.com/problems/search-a-2d-matrix-ii/)| Binary Search | ➖ | ➖ |
 |70     | Easy     |[Link](https://leetcode.com/problems/single-number/)| Bit Manipulation | 🌿 | ➖ |
-|72     | Medium   |[Link](https://leetcode.com/problems/sum-of-two-integers/)| Bit Manipulation | ➖ | ➖ |
+|72     | Medium   |[Link](https://leetcode.com/problems/sum-of-two-integers/)| Bit Manipulation | ✅ | ➖ |
 |73     | Medium   |[Link](https://leetcode.com/problems/utf-8-validation/)| Bit Manipulation | ➖ | ➖ |
 |75     | Hard     |[Link](https://leetcode.com/problems/sliding-window-maximum/)| Sliding Window | ➖ | ➖ |
 |76     | Hard     |[Link](https://leetcode.com/problems/minimum-window-substring/)| Sliding Window | ➖ | ➖ |
 |78     | Easy     |[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| Greedy Algorithm | 🌿 | ➖ |
 |79     | Medium   |[Link](https://leetcode.com/problems/queue-reconstruction-by-height/)| Greedy Algorithm | ➖ | ➖ |
-|82     | Easy     |[Link](https://leetcode.com/problems/assign-cookies/)| Greedy Algorithm | ➖ | ➖ |
+|82     | Easy     |[Link](https://leetcode.com/problems/assign-cookies/)| Greedy Algorithm | 🌿 | ➖ |
 |87     | Easy     |[Link](https://leetcode.com/problems/climbing-stairs/)| Dynamic Programming | ➖ | ➖ |
