@@ -20,7 +20,7 @@
 |9      | Medium   |[Link](https://leetcode.com/problems/3sum/)| Array | ➖ | ➖ |
 |10     | Easy     |[Link](https://leetcode.com/problems/array-partition)| Array | ✅ | ➖ |
 |11     | Medium   |[Link](https://leetcode.com/problems/product-of-array-except-self/)| Array | ➖ | ➖ |
-|12     | Easy     |[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Array | ➖ | ➖ |
+|12     | Easy     |[Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Array | 🌿 | ➖ |
 |13     | Easy     |[Link](https://leetcode.com/problems/palindrome-linked-list/)| Linked List | 🌿 | ➖ |
 |14     | Easy     |[Link](https://leetcode.com/problems/merge-two-sorted-lists/)| Linked List | 🌿 | ➖ |
 |16     | Medium   |[Link](https://leetcode.com/problems/add-two-numbers/)| Linked List | ➖ | ➖ |
