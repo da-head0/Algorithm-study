@@ -52,16 +52,16 @@
 |40     | Medium   |[Link](https://leetcode.com/problems/network-delay-time/)| Shortest Path | ➖ | ➖ |
 |41     | Medium   |[Link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)| Shortest Path | ➖ | ➖ |
 |42     | Easy     |[Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Tree | 🌿 | ➖ |
-|43     | Easy     |[Link](https://leetcode.com/problems/diameter-of-binary-tree/)| Tree | ➖ | ➖ |
+|43     | Easy     |[Link](https://leetcode.com/problems/diameter-of-binary-tree/)| Tree |🌿 | ➖ |
 |44     | Medium   |[Link](https://leetcode.com/problems/longest-univalue-path/)| Tree | ➖ | ➖ |
-|45     | Easy     |[Link](https://leetcode.com/problems/invert-binary-tree/)| Tree | ➖ | ➖ |
+|45     | Easy     |[Link](https://leetcode.com/problems/invert-binary-tree/)| Tree | 🌿 | ➖ |
 |46     | Easy     |[Link](https://leetcode.com/problems/merge-two-binary-trees/)| Tree | ➖ | ➖ |
 |47     | Hard     |[Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)| Tree | ➖ | ➖ |
 |48     | Easy     |[Link](https://leetcode.com/problems/balanced-binary-tree/)| Tree | ➖ | ➖ |
 |49     | Medium   |[Link](https://leetcode.com/problems/minimum-height-trees/)| Tree | ➖ | ➖ |
-|50     | Easy     |[Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| Tree | ➖ | ➖ |
+|50     | Easy     |[Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| Tree | 🌿 | ➖ |
 |51     | Medium   |[Link](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)| Tree | ➖ | ➖ |
-|52     | Easy     |[Link](https://leetcode.com/problems/range-sum-of-bst/)| Tree | ➖ | ➖ |
+|52     | Easy     |[Link](https://leetcode.com/problems/range-sum-of-bst/)| Tree | 🌿 | ➖ |
 |53     | Easy     |[Link](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)| Tree | ➖ | ➖ |
 |54     | Medium   |[Link](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Tree | ➖ | ➖ |
 |55     | Medium   |[Link](https://leetcode.com/problems/kth-largest-element-in-an-array/)| Tree | ➖ | ➖ |
