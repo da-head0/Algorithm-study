@@ -92,9 +92,9 @@
 |80     | Medium   |[Link](https://leetcode.com/problems/task-scheduler/)| Greedy Algorithm | ➖ | ➖ |
 |81     | Medium   |[Link](https://leetcode.com/problems/gas-station/)| Greedy Algorithm | ➖ | ➖ |
 |82     | Easy     |[Link](https://leetcode.com/problems/assign-cookies/)| Greedy Algorithm | 🌿 | ➖ |
-|83     | Easy     |[Link](https://leetcode.com/problems/majority-element/)| Divide & Conquer | ➖ | ➖ |
+|83     | Easy     |[Link](https://leetcode.com/problems/majority-element/)| Divide & Conquer | ✅ | ➖ |
 |84     | Medium   |[Link](https://leetcode.com/problems/different-ways-to-add-parentheses/)| Divide & Conquer | ➖ | ➖ |
-|85     | Easy     |[Link](https://leetcode.com/problems/fibonacci-number/)| Dynamic Programming | ➖ | ➖ |
+|85     | Easy     |[Link](https://leetcode.com/problems/fibonacci-number/)| Dynamic Programming | ✅ | ➖ |
 |86     | Easy     |[Link](https://leetcode.com/problems/maximum-subarray/)| Dynamic Programming | ➖ | ➖ |
 |87     | Easy     |[Link](https://leetcode.com/problems/climbing-stairs/)| Dynamic Programming | ➖ | ➖ |
 |88     | Easy     |[Link](https://leetcode.com/problems/house-robber/)| Dynamic Programming | ➖ | ➖ |
